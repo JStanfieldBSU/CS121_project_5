@@ -26,6 +26,13 @@ class Race{
 Race --> Horse
 ```
 
+## hrMain.cpp
+```
+    call the race constructor
+    call start with that race object
+    profit (also return 0)
+```
+
 ## Race::Race()
 ```
 const int TRACK_LENGTH
